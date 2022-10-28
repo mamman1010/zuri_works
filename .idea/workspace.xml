@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db092da-390c-450a-bc24-2e8db81d01e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zuri_works.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/.idea/songcrud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/musicapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/musicapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/musicapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/songcrud/.env" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/songcrud/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songcrud/songcrud/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/songcrud/songcrud/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GlD1yIqVCOM3BUBXBuz9a3k8hK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db092da-390c-450a-bc24-2e8db81d01e5" name="Changes" comment="" />
+      <created>1666954067848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666954067848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
